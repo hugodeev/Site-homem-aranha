@@ -1,0 +1,201 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+
+.cabeçalho{
+    background-color: rgb(142, 3, 3); 
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    padding: 0px;
+    margin-top: 0%;
+    display: block;
+}
+
+.cabeçalho-icon-e-titulo{
+    display: flex;
+}
+
+#cabeçalho-icon-de-voltar{
+    background-color: rgb(0, 0, 0);
+    color: rgb(227, 224, 224);
+    margin-top: 15px;
+    width: 0px;
+    height: 0px;
+    padding-right: 44px;
+    font-size: 29px;
+}
+#cabeçalho-modo-escuro{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 136, 255);
+    width: 0%;
+    height: 0%;
+    margin-top: 15px;
+
+}
+
+.cabeçalho-link-icon-modo-escuro{
+   margin-left: auto;
+   margin-right: 0px;
+}
+
+.cabeçalho-link-icon{
+  margin-left: auto;
+}
+
+.cabeçalho-titulo{
+    padding: 17px;
+    padding-left: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #d4d2d2;
+    font-size: 22px;
+    cursor: pointer;
+}
+
+.conteúdo-principal{
+    background-color: rgb(142, 3, 3); 
+    height: 290px;
+    width: 299.4px;
+    margin-left: 17px;
+    margin: 43px;
+    margin-top: 90px;
+    border-radius: 10px;
+    padding: 2px;
+}
+
+.img-de-do-conteúdo-principal{
+    width: 298px;
+    height: 290px;
+    border-radius: 10px;
+}
+
+.conteúdo-principal-sub-titulo{
+    margin-top: 25px;
+    font-size: 18px;
+    margin-left: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.conteúdo-principal-sub-titulo-main{
+    font-size: 20px;
+    margin-left: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.conteúdo-principal-paragrafo{ 
+    margin-top: 15px;
+    padding-right: 0px;
+    text-align: justify;
+    font-size: 18px;
+    margin: 17px;
+}
+
+.conteúdo-principal-img-do-homem-aranha{
+    display: flex;
+    margin-top: 10px;
+    margin: 0px;
+}
+
+.img-do-homem-aranha01{
+    width: 90px;
+    height: 90px;
+    margin-top: 0px;
+    padding: 8px;
+}
+
+.img-do-homem-aranha02{
+    width: 90px;
+    height: 80px;  
+    padding: 8px;
+}
+
+.img-do-homem-aranha03{
+    width: 90px;
+    height: 90px;
+    padding: 8px;
+}
+
+.conteúdo-principal-img-habilidades{
+    display: flex;
+    width: 330px;
+    height: 55px;
+    margin: 25px;
+    margin-top: 23px;
+}
+
+.img-habilidades-01{ 
+    padding: 4px;
+    width: 100px;
+}
+
+.img-habilidades-02{ 
+    padding: 4px;
+    width: 100px;
+}
+
+.img-habilidades-03{ 
+    padding: 10px;
+}
+
+.img-habilidades-04{ 
+    padding: 10px;
+}
+
+.img-habilidades-05{ 
+    padding: 10px;
+}
+
+.img-habilidades-06{ 
+    padding: 10px;
+}
+
+.main3{
+    background-color: rgb(0, 191, 255);
+    height: 10px;
+    margin: 10px;
+    margin-top: 0px;
+    margin: 0%;
+    padding: 0%;
+}
+
+/* modo escuro css3*/
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    transition: background-color 0.3s, color 0.3s;
+}
+
+body.dark-mode {
+    background-color: #f2f2f2;
+    color: #000000;
+}
+
+.container {
+    max-width: 800px;
+    margin-left: 80px;
+    margin-top: 20px;
+    padding: 0px;
+    text-align: center;
+}
+
+span {
+    padding: 0px;
+    font-size: 15px;
+    cursor: pointer;
+    border: none;
+    color: rgb(218, 212, 212);
+    transition: background-color 0.3s, color 0.3s;
+}
+
+body.dark-mode span {
+    color: rgb(218, 212, 212);
+}
+
