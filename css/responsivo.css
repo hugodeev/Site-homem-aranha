@@ -1,7 +1,7 @@
 
 body{
     background-color: black;
-    color: antiquewhite;
+    color: rgb(255, 255, 255);
     margin: 0%;
     padding: 0%;
 }
@@ -9,13 +9,13 @@ body{
 body {
     font-family: Arial, sans-serif;
     background-color: rgb(255, 255, 255);
-    color: rgb(0, 0, 0);
+    color: rgb(48, 47, 47);
     transition: background-color 0.3s, color 0.3s;
 }
 
 body.dark-mode {
     background-color: #000000;
-    color: #ffffff;
+    color: #cdcdcd;
 }
 
 .container {
@@ -59,8 +59,6 @@ header{
   padding: 10px;   
 }
 
-menu{
-}
 
 menu > ul{
     list-style-type: none;
@@ -100,7 +98,6 @@ menu > ul > li > a:hover{
     margin-left: 31px;
     margin-top: 105px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: rgb(204, 200, 200);
 }
 
 .inicciall{
@@ -120,14 +117,10 @@ menu > ul > li > a:hover{
     max-height: 1400px ;
     min-height: 230px;
     margin: 20px;
-    margin-top: 27px;
+    margin-top: 35px;
     padding: 6px;
     background-color: rgb(119, 0, 0);
     border-radius: 15px; 
-}
-
-.text2{
-    color: rgb(210, 210, 210);
 }
 
 .p1{
@@ -135,7 +128,6 @@ menu > ul > li > a:hover{
     padding: px;
     font-size: 25px; 
     margin-top: 20px;
-    color: rgb(151, 143, 143);
 }
 
 .p2{
@@ -143,15 +135,14 @@ menu > ul > li > a:hover{
    padding: 20px;
    font-size: 25px ;  
    text-align: justify;
-   color: rgb(151, 143, 143);
+   
 }
 
 .text3{
     font-size: 22px;
     margin-left: 31px;
-    margin-top: 45px;
+    margin-top: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: rgb(210, 210, 210);
 }
 
 .hflash{
@@ -159,7 +150,6 @@ menu > ul > li > a:hover{
     margin-left: 32px;
     margin-top: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: rgb(210, 210, 210);
 }
 
 .logara3{
@@ -167,7 +157,6 @@ menu > ul > li > a:hover{
     margin-left: 31px;
     margin-top: 15px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: rgb(210, 210, 210);
 }
 
 .homii0{
@@ -231,6 +220,12 @@ menu > ul > li > a:hover{
     color: antiquewhite;
 }
 
+.hflash{
+    font-size: 26px;
+    margin-left: 32px;
+    margin-top: 10px;
+}
+
 .funda{
     height: 450px;
     background-color: rgb(119, 0, 0);
@@ -249,6 +244,7 @@ menu > ul > li > a:hover{
     font-size: 45px;
     margin-left: 30px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(196, 196, 196);
 }
 
 .ftextp{
@@ -256,7 +252,7 @@ menu > ul > li > a:hover{
     margin-left: 38px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 21px;
-    color: rgb(227, 231, 233);
+    color: rgb(196, 196, 196);
 }
 
 .infire{
@@ -285,6 +281,7 @@ menu > ul > li > a:hover{
    font-size: 28px;
    margin-left: 20px;
    margin-top: 20px;
+   color: rgb(196, 196, 196);
 }
 
 .ftextp1{
@@ -295,7 +292,7 @@ menu > ul > li > a:hover{
    width: 454px;
    padding: 3px;
    border-radius: 5px;
-   color: rgb(181, 181, 181);
+   color: rgb(196, 196, 196);
 }
 
 .carousel {
@@ -465,7 +462,6 @@ menu > ul > li > a:hover{
         padding: 20px;
         font-size: 26px ;  
         text-align: justify;
-        color: rgb(151, 143, 143);
      }
 
      .logara3{
@@ -473,7 +469,6 @@ menu > ul > li > a:hover{
         margin-left: 31px;
         margin-top: 15px;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
-        color: rgb(210, 210, 210);
     }
 
     .ftextp{
@@ -489,7 +484,6 @@ menu > ul > li > a:hover{
         margin-left: 31px;
         margin-top: 40px;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
-        color: rgb(210, 210, 210);
     }
 
     .text1{
@@ -497,15 +491,13 @@ menu > ul > li > a:hover{
         margin-left: 31px;
         margin-top: 40px;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
-        color: rgb(204, 200, 200);
     }
 
     .hflash{
         font-size: 26px;
         margin-left: 32px;
         margin-top: 10px;
-        font-family: Verdana, Geneva, Tahoma, sans-serif;
-        color: rgb(210, 210, 210);
+        font-family: Verdana, Geneva, Tahoma, sans-serif; 
     }
 
     .fiitt{
@@ -547,7 +539,6 @@ menu > ul > li > a:hover{
         margin-left: 31px;
         margin-top: 125px;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
-        color: rgb(204, 200, 200);
     }
 
     .tex001{
@@ -665,7 +656,6 @@ menu > ul > li > a:hover{
         margin-left: 31px;
         margin-top: 5px;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
-        color: rgb(210, 210, 210);
     }
 
     .text1{
@@ -719,7 +709,6 @@ menu > ul > li > a:hover{
         color: antiquewhite;
     }
 
-    
     .homii0{
         display: flex;
         padding: 24px;  
@@ -745,7 +734,7 @@ menu > ul > li > a:hover{
         margin-left: 31px;
         margin-top: 5px;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
-        color: rgb(210, 210, 210);
+        
     }
 
     .text1{
@@ -834,7 +823,6 @@ menu > ul > li > a:hover{
 
 @media screen and (max-width: 769px ){
 
- 
     .fiitt1{
         width: 100px;
         font-size: 38px;
@@ -857,7 +845,6 @@ menu > ul > li > a:hover{
         margin-left: 31px;
         margin-top: 5px;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
-        color: rgb(210, 210, 210);
     }
     
     .mainfund{
@@ -931,30 +918,14 @@ menu > ul > li > a:hover{
 }
 
 @media screen and (max-width: 500px ){
+  
 
-    
-    body {
-        font-family: Arial, sans-serif;
-        background-color: rgb(255, 255, 255);
-        color: rgb(0, 0, 0);
-        transition: background-color 0.3s, color 0.3s;
-    }
-    
-    body.dark-mode {
-        background-color: #000000;
-        color: #ffffff;
-    }
-    
     .container {
         max-width: 800px;
         margin-left: 17px;
         padding: 20px;
         text-align: center;
         font-size: 1px;
-    }
-
-    body.dark-mode span {
-        color: rgb(218, 212, 212);
     }
  
     .fiitt{
@@ -1046,15 +1017,13 @@ menu > ul > li > a:hover{
     margin-left: 18px;
     margin-top: 0px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: rgb(210, 210, 210);
     }
 
     .p1{
         margin-left: 25px;  
         padding: 0px;
         font-size: 12px; 
-        margin-top: 10px;
-        
+        margin-top: 10px;  
     }
     
     .p2{
@@ -1062,7 +1031,6 @@ menu > ul > li > a:hover{
        padding: 1px;
        font-size: 17px ;  
        text-align: justify;
-       
        margin-top: 10px;
     }
     
@@ -1071,7 +1039,6 @@ menu > ul > li > a:hover{
         margin-left: 13px;
         margin-top: 16px;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
-        color: rgb(210, 210, 210);
     }
 
     .apaix{
@@ -1091,7 +1058,6 @@ menu > ul > li > a:hover{
         margin-left: 13px;
         margin-top: 20px;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
-        color: rgb(210, 210, 210);
     }
 
     .mainfund{
